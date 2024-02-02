@@ -1,0 +1,9 @@
+moodle:
+  token: "your moodle token"
+
+  database:
+  name: "your db name"
+  host: "host"
+  port: 3306
+  user: "your db user"
+  password: "user password"
